@@ -1,2 +1,3 @@
 # Social-Media-Addiction
 This project analyzes survey data to explore the impact of social media on students’ academic performance, mental health, sleep, and relationship dynamics. Drawing from a diverse international dataset, it investigates patterns of platform usage, addiction scores, and their correlations with personal and behavioral variables.
+Through detailed visualizations and statistical insights, the report identifies high-risk platforms (e.g., TikTok, WhatsApp), peak usage times, and country-specific trends. The findings offer actionable recommendations for educators, policymakers, and mental health professionals aiming to improve student well-being in a digital age.
